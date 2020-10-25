@@ -11,6 +11,6 @@ development, it is currently being implemented independently of the 251 Club.
 
 See the files in the `doc` folder for more information about the system.
 
-Peter Chapin
+Peter Chapin  
 chapinp@acm.org
 
